@@ -1,0 +1,13 @@
+venv/
+models/
+runs/
+__pycache__/
+*.pyc
+.idea/
+ml-latest-small/
+*.zipaudio.wav 
+image.jpg 
+video.mp4 
+*.wav 
+*.jpg 
+*.mp4 
